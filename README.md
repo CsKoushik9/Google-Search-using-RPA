@@ -17,7 +17,7 @@ RPA means Robotic Process Automation which is used to automate any kind of proce
 
 7. Configure XAMPP server and then start the apache server on port 8081.
 
-8. For configuring apache server on port 8081, Open XAMPP and then Click config near to the apache and you will find 'httpd.conf'. Click      to open that and then search for 'Listen'. Next to the 'Listen' you will find port number, change it to 8081.
+8. For configuring apache server on port 8081, Open XAMPP and then Click config near to the apache and you will find 'httpd.conf'. Click      to open that and then search for 'Listen'. Next to the 'Listen' you will find port number, change it to  8081.
 
 9. Now double click on GoogleSearch.xaml it will open in 'UiPath Studio'. If it doesn't open, Open UIPath Studio, and then Click open,        move to the location where the GoogleSearch.xaml file is available. Click on it.
 
