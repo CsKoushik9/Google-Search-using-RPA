@@ -25,8 +25,8 @@ RPA means Robotic Process Automation which is used to automate any kind of proce
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
------------------------------------------Contact Details--------------------------------------
 
-11. My Linkedin id: https://in.linkedin.com/in/cs-koushik-70854b170
 
-12. My email is: koushik.vani@gmail.com
+My Linkedin id: https://in.linkedin.com/in/cs-koushik-70854b170
+
+My email is: koushik.vani@gmail.com
